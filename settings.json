@@ -47,7 +47,9 @@
 
   /** ------------ Additional Configurations ------------ **/
   "vscode_custom_css.imports": [
-    "file:///Users/nur/.vscode/vscode-custom/style.css",
-    "file:///Users/nur/.vscode/vscode-custom/script.js"
+     "file:///Users/AgusBaha/.vscode/vscode-custom/style.css",
+    "file:///Users/AgusBaha/.vscode/vscode-custom/script.js",
+    "file:///C:/Users/AgusBaha/.vscode/vscode-custom/style.css",
+    "file:///C:/Users/AgusBaha/.vscode/vscode-custom/script.js"
   ]
 }
